@@ -23,6 +23,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.5.1'
 #Used for database for logging users in and out
+# $rails generate devise:install
 gem 'devise', '~> 3.5', '>= 3.5.2'
 
 # Use ActiveModel has_secure_password
